@@ -18,7 +18,7 @@ const AboutUs = () => {
     email: '',
     message: ''
   });
-
+ const f= true;
   const [formStatus, setFormStatus] = useState({
     submitted: false,
     error: false
